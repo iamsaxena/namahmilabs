@@ -128,7 +128,7 @@ const roadmap = [
 
 const contactItems = [
   { label: "Phone", value: "+91 70757 29458" },
-  { label: "Email", value: "hello@namahmilabs.com" },
+  { label: "Email", value: "connect@namahmilabs.com" },
   {
     label: "LinkedIn",
     value: "Namahmi Labs",
